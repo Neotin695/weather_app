@@ -1,0 +1,44 @@
+{
+    "coord": {
+      "lon": -75.5299,
+      "lat": 40.6801
+    },
+    "weather": [
+      {
+        "id": 800,
+        "main": "Clear",
+        "description": "clear sky",
+        "icon": "01d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 298.64,
+      "feels_like": 298.97,
+      "temp_min": 296.93,
+      "temp_max": 300.19,
+      "pressure": 1011,
+      "humidity": 66
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.34,
+      "deg": 105,
+      "gust": 1.79
+    },
+    "clouds": {
+      "all": 0
+    },
+    "dt": 1693151401,
+    "sys": {
+      "type": 2,
+      "id": 2002445,
+      "country": "US",
+      "sunrise": 1693131852,
+      "sunset": 1693179820
+    },
+    "timezone": -14400,
+    "id": 5188351,
+    "name": "Egypt",
+    "cod": 200
+}
